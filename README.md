@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit! 
-- 👀 A Finance ugrad student greatly interested in Machine Learning and Data Science!
+- 👀 A Finance ugrad student greatly interested in Machine Learning and AI!
 - 📚 I’m currently learning the fundamentals of these spheres! There's so much to learn and it's super exciting. Accumulating knowledge is pleasurable. 
 - 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/sumit-pokharel/)! Throw me a short memo along with the request!
 
