@@ -25,4 +25,4 @@ Please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">ema
 ### GitHub Metrics
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=psumitcode&show_icons=true&theme=github_dark&hide=stars,issues&count_private=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psumitcode&langs_count=2&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psumitcode&langs_count=4&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
