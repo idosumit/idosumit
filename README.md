@@ -16,9 +16,9 @@ Please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">ema
 
 #
 
-### Languages
-- Python (TensorFlow, Pandas, Numpy, Scikit-learn)
-- C
+### Languages & Libraries
+- Python, C
+- TensorFlow, Pandas, Numpy, Scikit-learn
 
 #
 
