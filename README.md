@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit!</h1>
 
-**`"Su" from sumo and "mit" from Mitsubishi`**
+**`"Su" from sushi and "mit" from Mitsubishi`**
 
 I'm a fourth-year business major student based in Japan. An aspiring Machine Learning and AI practitioner learning the essence of these domains through projects, AI/ML experts, research papers, and my university seminar **"Data Science, Machine Learning, NLP"**. My personal commitment is to complete 1 AI or ML project per month and upload it to GitHub. I love learning, and I rejoice the struggle of learning difficult things because being able to navigate difficult things leads to innovation and creativity.
 
