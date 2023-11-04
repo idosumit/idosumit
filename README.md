@@ -23,6 +23,6 @@ Please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">ema
 #
 
 ### GitHub Metrics
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=psumitcode&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-pokharel&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psumitcode&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-pokharel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
