@@ -4,9 +4,11 @@
 
 **`"Su" from sushi and "mit" from Mitsubishi`**
 
-I'm a fourth-year business major student based in Japan. An aspiring Machine Learning and AI practitioner learning the essence of these domains through projects, AI/ML experts, research papers, and my university seminar **"Data Science, Machine Learning, NLP"**. My personal commitment is to complete 1 AI or ML project per month and upload it to GitHub. I love learning, and I rejoice the struggle of learning difficult things because being able to navigate difficult things leads to innovation and creativity.
+Business student turned software engineer. Incoming software engineer at a multinational firm in Japan (April 2024). I am driven by a desire to contribute to society through Machine Learning and AI. As such, I am passionate about engaging in discussions regarding career transitions into the dynamic field of AI and breaking into the tech industry. 
 
-Please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">email</a> or the social media links below.
+I like doing random AI projects, uploading them to GitHub, and sharing my struggles and understandings on LinkedIn. I love learning, and I rejoice in the struggle of learning difficult things. It's through navigating these complex problems that innovation and creativity flourish. 
+
+If you want to connect (I would love to!), please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">email</a> or the social media links below.
 #
 
 ### Let's connect!
