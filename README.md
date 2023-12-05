@@ -4,7 +4,7 @@
 
 **`"Su" from sushi and "mit" from Mitsubishi`**
 
-Business student turned software engineer. Incoming software engineer at a multinational firm in Japan (April 2024). I am driven by a desire to contribute to society through Machine Learning and AI. As such, I am passionate about engaging in discussions regarding career transitions into the dynamic field of AI and breaking into the tech industry. 
+A freshly graduated business student and an incoming software engineer at a Japanese multinational firm (April 2024). I am driven by a desire to contribute to society through Machine Learning and AI. As such, I am passionate about engaging in discussions regarding career transitions into the dynamic field of AI and breaking into the tech industry. 
 
 I like doing random AI projects, uploading them to GitHub, and sharing my struggles and understandings on LinkedIn. I love learning, and I rejoice in the struggle of learning difficult things. It's through navigating these complex problems that innovation and creativity flourish. 
 
@@ -15,12 +15,6 @@ If you want to connect (I would love to!), please feel free to reach out to me v
 <a href="https://www.linkedin.com/in/sumit-pokharel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@sumit-ml" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/sumit_ml" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-#
-
-### Languages & Libraries
-- Python, C
-- TensorFlow, Pandas, NumPy, Scikit-learn
 
 #
 
