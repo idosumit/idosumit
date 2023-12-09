@@ -13,12 +13,12 @@ If you want to connect (I would love to!), please feel free to reach out to me v
 
 ### Let's connect!
 <a href="https://www.linkedin.com/in/sumit-pokharel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@sumit-ml" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://medium.com/@idosumit" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/sumit_ml" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 #
 
 ### GitHub Metrics
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-pokharel&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=idosumit&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-pokharel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
