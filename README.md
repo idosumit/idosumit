@@ -7,8 +7,6 @@
 #### About me
 - A freshly graduated business student learning AI
 - Incoming Software Engineer at a Japanese conglomerate in 2024
-- Driven by a desire to contribute to society through AI
-- I love learning, and I rejoice in the struggle of learning difficult things
 
 #### I learn through...
 - doing random AI projects out of random ideas that pop up in my head
