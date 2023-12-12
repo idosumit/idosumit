@@ -4,9 +4,21 @@
 
 **`"Su" from sushi and "mit" from Mitsubishi`**
 
-A freshly graduated business student and an incoming software engineer at a Japanese multinational firm (April 2024). I am driven by a desire to contribute to society through Machine Learning and AI. As such, I am passionate about engaging in discussions regarding career transitions into the dynamic field of AI and breaking into the tech industry. 
+#### About me
+- A freshly graduated business student learning AI
+- Incoming Software Engineer at a Japanese conglomerate in 2024
+- Driven by a desire to contribute to society through AI
+- I love learning, and I rejoice in the struggle of learning difficult things
 
-I like doing random AI projects, uploading them to GitHub, and sharing my struggles and understandings on LinkedIn. I love learning, and I rejoice in the struggle of learning difficult things. It's through navigating these complex problems that innovation and creativity flourish. 
+#### I learn through...
+- doing random AI projects out of random ideas that pop up in my head
+- recreating/trying out the latest state-of-the-art innovations in AI I see on Twitter and trending GitHub repos
+- studying different AI practitioners' materials
+
+#### I'm currently studying (irregularly)...
+- Python
+- in-depth linear algebra & calculus
+- deep learning fundamentals
 
 If you want to connect (I would love to!), please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">email</a> or the social media links below.
 #
@@ -19,6 +31,7 @@ If you want to connect (I would love to!), please feel free to reach out to me v
 #
 
 ### GitHub Metrics
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=idosumit&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)
+
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=idosumit&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
