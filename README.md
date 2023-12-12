@@ -4,16 +4,16 @@
 
 **`"Su" from sushi and "mit" from Mitsubishi`**
 
-#### About me
+### About me
 - A freshly graduated business student learning AI
 - Incoming Software Engineer at a Japanese conglomerate in 2024
 
-#### I learn through...
+### I learn through...
 - doing random AI projects out of random ideas that pop up in my head
 - recreating/trying out the latest state-of-the-art innovations in AI I see on Twitter and trending GitHub repos
 - studying different AI practitioners' materials
 
-#### I'm currently studying (irregularly)...
+### I'm currently studying (irregularly)...
 - Python
 - in-depth linear algebra & calculus
 - deep learning fundamentals
