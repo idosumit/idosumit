@@ -6,7 +6,7 @@
 
 ### About me
 - A freshly graduated business student learning AI
-- Incoming Software Engineer at a Japanese conglomerate in 2024
+- Japan-based Software Engineer
 
 #
 
@@ -25,7 +25,7 @@
 #
 
 ### Let's connect!
-If you want to connect (I would love to!), please feel free to reach out to me via <a href="mailto:psumit.sv@gmail.com">email</a> or the social media links below.
+If you want to connect (I would love to!), please feel free to reach out to me via <a href="mailto:contact@idosumit.com">email</a> or the social media links below.
 
 <a href="https://www.linkedin.com/in/sumit-pokharel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@idosumit" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
