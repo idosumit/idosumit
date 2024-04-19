@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Sumit!</h1>
 
-**`"Su" from sushi and "mit" from Mitsubishi`**
-
 ### About me
 - A freshly graduated business student learning AI
 - Japan-based Software Engineer
