@@ -16,9 +16,9 @@
 #
 
 ### I'm currently studying (irregularly)...
-- Python
-- in-depth linear algebra & calculus
-- deep learning fundamentals
+- C
+- Web Development (JavaScript, CSS, HTML, TypeScript)
+- Deep Learning fundamentals
 
 #
 
