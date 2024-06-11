@@ -17,14 +17,13 @@
 
 ### I'm currently studying (irregularly)...
 - C
-- Web Development (JavaScript, CSS, HTML, TypeScript)
-- Vim/Vimscript
+- Web Development (JavaScript, TypeScript, React)
 - Deep Learning fundamentals
 
 #
 
 ### Let's connect!
-If you want to connect (I would love to!), please feel free to reach out to me via <a href="mailto:contact@idosumit.com">email</a> or the links below.
+If you want to connect (I would love to!), please feel free to <a href="mailto:hi@idosumit.com">send me an email</a> or message me on:
 
 <a href="https://www.linkedin.com/in/sumit-pokharel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/sumit_ml" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
