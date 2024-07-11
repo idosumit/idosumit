@@ -20,6 +20,8 @@
 - Web Development (JavaScript, TypeScript, React)
 - Deep Learning fundamentals
 
+[Check out my notes!](http://notes.idosumit.com/)
+
 #
 
 ### Let's connect!
