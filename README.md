@@ -16,7 +16,7 @@
 #
 
 ### I'm currently studying (irregularly)...
-- C
+- Math for AI (linear algebra, calculus)
 - Web Development (JavaScript, TypeScript, React)
 - Deep Learning fundamentals
 
