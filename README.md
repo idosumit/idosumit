@@ -1,10 +1,6 @@
-<img width="1347" alt="my favourite photo from my camera" src="https://user-images.githubusercontent.com/104295716/194117795-9b3e1c94-efd2-4c85-ba18-5f0e52c19155.png">
-
 <h1 align="center">Hi 👋, I'm Sumit!</h1>
 
-### About me
-- A freshly graduated business student learning AI & web development
-- Japan-based software developer
+SWE based in Tokyo. Like nature, coffee, and AI stuff. Currently on a journey to self-learn & gain a deeper understanding of ML.
 
 #
 
