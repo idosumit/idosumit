@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit!</h1>
+### Hi 👋, I'm Sumit!
 
 SWE based in Tokyo. Like nature, coffee, and AI stuff. Currently on a journey to self-learn & gain a deeper understanding of ML.
 
