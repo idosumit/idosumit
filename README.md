@@ -24,7 +24,6 @@ SWE based in Tokyo. Like nature, coffee, and AI stuff. Currently on a journey to
 If you want to connect (I would love to!), please feel free to <a href="mailto:hi@idosumit.com">send me an email</a> or message me on:
 
 <a href="https://www.linkedin.com/in/sumit-pokharel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/sumit_ml" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 #
 
