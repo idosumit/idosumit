@@ -1,13 +1,6 @@
 ### Hi 👋, I'm Sumit!
 
-SWE based in Tokyo. Like nature, coffee, and AI stuff. Currently on a journey to self-learn & gain a deeper understanding of ML.
-
-#
-
-### I learn through...
-- doing random AI projects out of random ideas that pop up in my head
-- recreating/trying out the latest state-of-the-art innovations in AI I see on Twitter and trending GitHub repos
-- studying different AI practitioners' materials
+Tokyo-based SWE. Currently self-learning ML :)
 
 #
 
@@ -15,8 +8,6 @@ SWE based in Tokyo. Like nature, coffee, and AI stuff. Currently on a journey to
 - Math for AI (linear algebra, calculus)
 - Web Development (JavaScript, TypeScript, React)
 - Deep Learning fundamentals
-
-[Check out my notes!](http://notes.idosumit.com/)
 
 #
 
