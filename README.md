@@ -7,7 +7,7 @@ Tokyo-based SWE. Currently self-learning ML :)
 ### I'm currently studying (irregularly)...
 - Math for AI (linear algebra, calculus)
 - Web Development (JavaScript, TypeScript, React)
-- Deep Learning fundamentals
+- Deep Learning (PyTorch, LLM architectures, paper implementations)
 
 #
 
@@ -22,4 +22,4 @@ If you want to connect (I would love to!), please feel free to <a href="mailto:h
 
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=idosumit&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
