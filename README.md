@@ -19,7 +19,7 @@ If you want to connect (I would love to!), please feel free to <a href="mailto:h
 
 #
 
-### My GitHub Metrics
+<!-- ### My GitHub Metrics
 
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=idosumit&theme=github_dark&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
