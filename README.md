@@ -1,13 +1,14 @@
 ### Hi 👋, I'm Sumit!
 
-Tokyo-based SWE. Currently self-learning ML :)
+Tokyo-based SWE. Welcome to my profile. :)
 
 #
 
-### I'm currently studying (irregularly)...
-- Math for AI (linear algebra, calculus)
-- Web Development (JavaScript, TypeScript, React)
-- Deep Learning (PyTorch, LLM architectures, paper implementations)
+### I'm currently studying...
+- Math for AI: linear algebra, calculus
+- Web Development: JavaScript, TypeScript, React
+- Deep Learning: PyTorch, LLM architectures, paper implementations.
+  You can check out my pinned repositories & my latest repository pushes for details.
 
 #
 
