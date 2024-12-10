@@ -39,5 +39,5 @@ Currently working on a few more...
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=idosumit&theme=dracula&count_private=true&card_width=320" /> <!-- &include_all_commits=true-->
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=6&exclude_repo=javascript-course-udemy&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=6&exclude_repo=javascript-course-udemy&card_width=300" />
 </a>
