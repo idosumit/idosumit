@@ -35,9 +35,9 @@ Currently working on a few more...
 #-->
 
 </br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/idosumit">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=idosumit&theme=dracula&count_private=true&card_width=337" /> <!-- &include_all_commits=true-->
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/idosumit/repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idosumit&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=6&exclude_repo=javascript-course-udemy&card_width=337" />
 </a>
