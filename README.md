@@ -1,9 +1,5 @@
 # Hi 👋, I'm Sumit!
 
-Tokyo-based SWE. Welcome to my profile. :)
-
-#
-
 ### I'm currently studying...
 - Math for AI: linear algebra, calculus
 - Web Development: JavaScript, TypeScript, React
